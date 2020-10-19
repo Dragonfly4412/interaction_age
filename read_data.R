@@ -1,4 +1,4 @@
-dat=read.csv('summary_ages_20200810.csv')
+dat=read.csv('Table_S4.csv')
 
 dat=dat[dat$diet.shift.=="N",]
 
