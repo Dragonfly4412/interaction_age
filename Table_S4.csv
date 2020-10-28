@@ -1,0 +1,61 @@
+description,diet shift?,symbiosis?,focal taxon,interactor (host for parasites),age of interaction,interaction type,herbivory?,parasitism?,animal?,insect?,insect-host?,insect-plant?,use_of fungi_by_insects?,plants?,fungi?,fungus-host?,bacteria?,protists?
+Feather mites (Acariformes: Psoroptidia),N,Y,arthropod,birds,145,antagonistic,0,1,1,0,0,0,0,0,0,0,0,0
+Malaria (haemosporidians) infecting mammals,N,Y,protist,mammals,12.82,antagonistic,0,1,0,0,0,0,0,0,0,0,0,1
+Bartonella bacteria in bats ,N,Y,bacteria,mammals,75,antagonistic,0,1,0,0,0,0,0,0,0,0,1,0
+Bartonella bacteria in rodents ,N,Y,bacteria,mammals,85,antagonistic,0,1,0,0,0,0,0,0,0,0,1,0
+Cyttaria fungi on southern beech ,N,Y,fungus,land plants,47,antagonistic,0,1,0,0,0,0,0,0,1,1,0,0
+Sclerotiniaceae fungi on plants ,N,Y,fungus,land plants,70,antagonistic,0,1,0,0,0,0,0,0,1,1,0,0
+Fungi (Ophiocordycipitaceae) on fungi (truffles: Elaphomyces) ,N,Y,fungus,fungi,70,antagonistic,0,1,0,0,0,0,0,0,1,1,0,0
+Fungi (Pneumocystis) on primates ,N,Y,fungus,mammals,75,antagonistic,0,1,0,0,0,0,0,0,1,1,0,0
+Fungi (Hypocreales) on arthropods ,N,Y,fungus,arthropods,158,antagonistic,0,1,0,0,0,0,0,0,1,1,0,0
+parasitic plants (Orobanchaceae) on other plants,N,Y,land plants,land plants,30,antagonistic,0,1,0,0,0,0,0,1,0,0,0,0
+Interspecific brood parasite finches (Aves: Viduidae),N,Y,bird,bird,18.5,antagonistic,0,1,1,0,0,0,0,0,0,0,0,0
+"Pyramidellidae (Mollusca) on other molluscs, annelids",N,Y,mollusks,animal,109.9,antagonistic,0,1,1,0,0,0,0,0,0,0,0,0
+Ascaridoidea (Nematoda),N,Y,nematodes,vertebrates,325.27,antagonistic,0,1,1,0,0,0,0,0,0,0,0,0
+Myxozoa (Cnidaria),N,Y,cnidarians,animals,588,antagonistic,0,1,1,0,0,0,0,0,0,0,0,0
+Botflies (Diptera: Oestridae) on mammals,N,Y,insects,mammals,30,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Kissing bugs (Hemiptera: Reduviidae: Triatominae),N,N,insects,vertebrates,32,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Tachinid flies (Diptera: Tachinidae),N,Y,insects,insects,40,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Cicada parasitic beetles ,N,Y,insects,insects,70,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Lice (Phthiraptera),N,Y,insects,vertebrates,90,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Fleas (Siphonaptera),N,Y,insects,mammals,95,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Twisted winged insects (Strepsiptera),N,Y,insects,insects,100,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Bed bugs (Hemiptera: Cimicidae),N,Y,insects,vertebrates,103,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Spider flies (Diptera: Acroceridae),N,Y,insects,arachnids,140,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Ant-nest beetles (Coleoptera: Carabidae: Paussinae),N,Y,insects,insects,175.25,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Mosquitos (Diptera: Culicidae) on vertebrates,N,N,insects,vertebrates,216.86,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Parasitoid wasps (Hymenoptera: Vespina),N,Y,insects,insects,250,antagonistic,0,1,1,1,1,0,0,0,0,0,0,0
+Iguanas and plants,Y,N,vertebrates,land plants,50.81,antagonistic,1,0,1,0,0,0,0,0,0,0,0,0
+Algivorous marine mites ,Y,Y,arachnids,algae,88.3,antagonistic,1,0,1,0,0,0,0,0,0,0,0,0
+Gall midges on fungi,N,Y,insects,fungi,111,antagonistic,1,0,1,1,1,0,1,0,0,0,0,0
+Gall midges on plants,N,Y,insects,land plants,92,antagonistic,1,0,1,1,1,1,0,0,0,0,0,0
+Phasmatodea (Insecta),Y,N,insects,land plants,95,antagonistic,1,0,1,1,1,1,0,0,0,0,0,0
+Beetles (Phytophaga clade) on plants,Y,N,insects,land plants,185,antagonistic,1,0,1,1,1,1,0,0,0,0,0,0
+Orthoptera,Y,N,insects,land plants,200,antagonistic,1,0,1,1,1,1,0,0,0,0,0,0
+Hemiptera on plants,Y,N,insects,land plants,386,antagonistic,1,0,1,1,1,1,0,0,0,0,0,0
+Gall-making fig wasps,N,Y,insects,land plants,26,antagonistic,1,1,1,1,1,1,0,0,0,0,0,0
+Caterpillars (Lepidoptera) on plants,Y,?,insects,land plants,140,antagonistic,1,1,1,1,1,1,0,0,0,0,0,0
+Eukaryotic cell (mitochondria in eukaryotic cells),N,Y,bacteria,eukaryotes,1781.1,mutualistic,0,0,0,0,0,0,0,0,0,0,1,0
+Secondary endosymbiosis (plastids in protists),N,Y,algae,protists,1469.66,mutualistic,0,0,0,0,0,0,0,1,0,0,0,1
+Legume-rhizobia (plant-bacteria),N,Y,bacteria,land plants,50,mutualistic,0,0,0,0,0,0,0,1,0,0,1,0
+Primary endosymbiosis (plastids in plant cells),N,Y,bacteria,land plants,1550.12,mutualistic,0,0,0,0,0,0,0,1,0,0,1,0
+Ascolichens,N,Y,fungi,algae,440,mutualistic,0,0,0,0,0,0,0,1,1,0,0,0
+Ectomycorrhizae,N,Y,fungi,land plants,183.26,mutualistic,0,0,0,0,0,0,0,1,1,1,0,0
+Arbuscular mycorrhizae,N,Y,fungi,land plants,480,mutualistic,0,0,0,0,0,0,0,1,1,1,0,0
+cleaning gobies,N,Y,fish,fish,7,mutualistic,0,0,1,0,0,0,0,0,0,0,0,0
+clownfish-anenome,N,Y,fish,cnidarians,20,mutualistic,0,0,1,0,0,0,0,0,0,0,0,0
+Corals and dinoflagellates,N,Y,protists,cnidarians,165.9,mutualistic,0,0,1,0,0,0,0,0,0,0,0,1
+Bacteria in deep-sea clams,N,Y,bacteria,mollusks,75,mutualistic,0,0,1,0,0,0,0,0,0,0,1,0
+endosymbiotic protists of termites,N,Y,protists,insects,170,mutualistic,0,0,1,1,0,0,0,0,0,0,0,1
+Bacteria in cockroaches,N,Y,bacteria,insects,150,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Bacteria in sap-feeding insects: sharpshooters,N,Y,bacteria,insects,135,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Bacteria in sap-feeding insects: whiteflies,N,Y,bacteria,insects,150,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Bacteria in sap-feeding insects: mealybugs,N,Y,bacteria,insects,150,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Bacteria in sap-feeding insects: aphids,N,Y,bacteria,insects,172.5,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Bacteria in sap-feeding insects: psyllids,N,Y,bacteria,insects,175,mutualistic,0,0,1,1,0,0,0,0,0,0,1,0
+Fungus farming termites ,N,Y,insects,fungi,28,mutualistic,0,0,1,1,0,0,1,0,1,0,0,0
+Fungus-farming attine ants ,N,Y,insects,fungi,55,mutualistic,0,0,1,1,0,0,1,0,1,0,0,0
+Fungus farming beetles ,N,Y,insects,fungi,60,mutualistic,0,0,1,1,0,0,1,0,1,0,0,0
+Angiosperms and insect pollinators,N,Y,insects,land plants,139.4,mutualistic,0,0,1,1,0,1,0,1,0,0,0,0
+ant-acacia,N,Y,insects,land plants,5.7,mutualistic,0,0,1,1,1,1,0,1,0,0,0,0
+ants (Decacrema) and plants (Macaranga),N,Y,insects,land plants,11.9,mutualistic,0,0,1,1,1,1,0,1,0,0,0,0
